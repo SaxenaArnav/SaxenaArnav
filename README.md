@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav Saxena
 - 👀 I’m interested in Data Science, Data Analytics, Fintech.
-- 🌱 I’m currently learning SQL, Python,Tableau.
+- 🌱 I’m currently learning SQL, Python, Tableau.
 - 📫 How to reach me arnavsaxena71@gmail.com
 
 <!---
